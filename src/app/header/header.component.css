@@ -1,0 +1,31 @@
+.a1{
+    height: 50px;
+    }
+    .nav{
+        background-color: black;
+        /* height: 150px; */
+    }
+    .me-2{
+        border-radius: 40px;
+        width: 150px;
+        background-color: black;
+        margin-left: 30px;
+    }
+    ::placeholder{
+    color: white;
+    }
+    .fa-search{
+        color: white;
+        margin-left: -30px;
+        margin-top: 10px;
+    
+    }
+    .fa-user-circle{
+        color: white;
+        margin-left: 10px;
+         
+    
+    }
+    .a2{
+        width: 50px;
+    }
